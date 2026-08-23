@@ -1,26 +1,32 @@
 ---
-title: "Home"
-layout: "homelay"
+title: Home
+layout: homelay
 sitemap: false
 permalink: /
 ---
-#### Welcome to the Sun Research Group！
 
-Located in El Paso ("The Sun City"), the Sun Research Group is affiliated with UTEP, where I serve as an Assistant Professor in the Department of Earth, Environmental and Resource Sciences. I was fortunate to work with [Prof. Laurent Demanet](https://math.mit.edu/icg/people/laurent.html) in the [Earth Resources Laboratory](https://erlweb.mit.edu/) and received my Ph.D. in Geophysics from Massachusetts Institute of Technology in 2022. Before joining UTEP, I completed my postdoctoral training at California Institute of Technology and gained industry experience through internships at TotalEnergies and ExxonMobil during my doctoral studies. Previously, I obtained both bachelor's and master's degrees in geophysics at Jilin University. 
+# Albert Kabanda
 
-<span style="color: #FF8200;">**I am looking for new graduate students, visiting scholars, and undergraduate researchers to join my group. Contact me for potential projects!** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) </span> 
+### Geophysics • Seismology • Seismic Imaging
 
-#### AI for Earth, Environmental and Resource Sciences
+Welcome to my website.
 
-My research expertise spans geophysics, seismology, AI, and machine learning, with a focus on developing machine-learning algorithms to tackle complex geoscience challenges through intelligent, physics-informed, and data-driven approaches. My work aims to enhance our understanding of the Earth's interior, addressing energy and environmental challenges from a geophysical perspective and mitigating risks associated with natural and induced earthquakes. By integrating machine learning and big data, I explore subsurface structures and dynamics, including earthquake rupture, fluid migration, natural resource reservoirs, and geothermal systems.
+I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, imaging, and computational methods.
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/summary.png" width="100%"/><br/>
-Our research group operates at the intersection of Earth sciences, AI, and applied mathematics, focusing on solid Earth geophysics. Our work includes Earth imaging, geological hazards, and the sustainability of our planet and its environment. <br/>
-</center>
-</div>
-</div>
-<br/>
+My research interests include continental rifting, seismic imaging, receiver functions, surface waves, ambient seismic noise, and computational geophysics.
 
+[Research](/Research/) &nbsp;&nbsp; [Publications](/Publications/) &nbsp;&nbsp; [CV](/CV/)
+
+## Research Highlights
+
+### Continental Rifting
+Understanding how continental lithosphere deforms and eventually breaks apart.
+
+### Seismic Imaging
+Using seismic waves to image crustal and upper-mantle structure.
+
+### Ambient Noise Seismology
+Extracting surface waves and subsurface information from the ambient seismic wavefield.
+
+### Computational Geophysics
+Scientific computing, inverse problems, data analysis, and seismic processing.

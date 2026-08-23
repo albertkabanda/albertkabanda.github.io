@@ -1,5 +1,5 @@
 img { 
-    border-radius:10%;  //给所有图片设置圆角，半径为其宽度或高度的 5%
+    border-radius:10%;  
 }
 
 .jumbotron {
@@ -13,7 +13,7 @@ img {
   margin-bottom: 20px;
   border-bottom: none!important;
   //border-bottom: 4px solid var(--secondary);
-  background-color: #041E42  !important;
+  background-color: #54205F  !important;
 }
 
 .btn {
@@ -61,7 +61,7 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url($baseurl + "/images/thumbs/3dtrain.jpeg");
+  #background-image: url($baseurl + "/images/thumbs/3dtrain.jpeg");
 }
 
 .embed-container {
@@ -92,14 +92,14 @@ img {
 }
 
 #footer {
-  background-color: #EBEFF1; /* 灰色背景 */
+  background-color: #EBEFF1; 
 }
 
 .custom-btn {
-  background-color: #FF8200; /* 自定义背景颜色 */
-  border-color: #FF8200;     /* 自定义边框颜色 */
+  background-color: #A51C30; 
+  border-color: #A51C30;    
 }
 
 .custom-btn:hover {
-  background-color: #041E42; /* 当鼠标悬停时修改背景颜色 */
+  background-color: #54205F; 
 }

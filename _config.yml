@@ -28,10 +28,20 @@ contact: >
   Last updated on Oct 15, 2025
 # Pages shown in navbar
 nav_pages:
-  - name: CV
-  - name: Publications
-  - name: Research
-  - name: Teaching
+- name: About
+  url: /About/
+- name: Research
+  url: /Research/
+- name: Publications
+  url: /Publications/
+- name: Teaching
+  url: /Teaching/
+- name: Posts
+  url: /Posts/
+- name: Cool Stuff
+  url: /Cool-Stuff/
+- name: CV
+  url: /CV/
   #- name: Openings
   # - name: Team
   - name: Software

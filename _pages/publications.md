@@ -27,4 +27,4 @@ My name is shown in **bold**.
 
 ## Other Publications
 
-7. **Kabanda, A.** (2017). Rock physics template (RPT) technology for reservoir characterization and 4D seismic monitoring. *CSEG Recorder, 42*(1).
+7. **Kabanda, A.** (2017). Rock physics template (RPT) technology for reservoir characterization and 4D seismic monitoring. *CSEG Recorder, 42*(1). [https://csegrecorder.com/articles/view/rock-physics-template-rpt-technology-for-reservoir-characterization]

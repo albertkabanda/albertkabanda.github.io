@@ -42,11 +42,6 @@ nav_pages:
   url: /Cool-Stuff/
 - name: CV
   url: /CV/
-  #- name: Openings
-  # - name: Team
-  - name: Software
-  - name: Talks
-  - name: Blogs
 
 include:
   - .htaccess

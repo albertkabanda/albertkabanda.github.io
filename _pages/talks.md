@@ -1,11 +1,3 @@
----
-
-title: Talks
-layout: gridlay
-sitemap: false
-permalink: /Talks/
-------------------
-
 # Conference Presentations and Workshops
 
 My name is shown in **bold**.

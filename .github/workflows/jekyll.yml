@@ -1,0 +1,34 @@
+name: Jekyll site CI
+
+on:
+  push:
+    branches:
+      - main  # 触发构建的分支，你可以根据需要修改
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0'  # 选择与 Gemfile 兼容的 Ruby 版本
+
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        bundle install
+
+    - name: Check Jekyll version
+      run: bundle exec jekyll -v  # 这将输出正在使用的 Jekyll 版本以确认
+
+    - name: Build the site
+      run: bundle exec rake generate  # 使用 Rakefile 中的 build 任务来构建站点
+
+    - name: Deploy to GitHub Pages
+      run: bundle exec rake publish  # 使用 Rakefile 中的 publish 任务来发布站点
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 确保在发布时使用 GitHub Token 进行身份验证

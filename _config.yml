@@ -1,0 +1,102 @@
+# Site settings
+title: Dr. Hongyu Sun
+title_bottom: Hongyu Sun
+email: hsun2@utep.edu
+description: Sun Research Group
+baseurl: ""
+url: "https://sun-hongyu.github.io"
+
+# theme: minimal-mistakes-jekyll
+# minimal_mistakes_skin: "aqua"
+
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+google_analytics_4: G-WZ36XBVDW6
+# google_tag_manager: XXX
+
+# Footer info
+affiliation: >
+  <a href="https://www.utep.edu/science/geology/"><i class="fa fa-1x"></i> Dept. of Earth, Environmental and Resource Sciences</a><br/>
+  <a href="https://www.utep.edu/"><i class="fa fa-1x"></i> The University of Texas at El Paso</a>
+
+location: >
+  500 W University<br/>
+  El Paso, Texas 79902<br/>
+#  <a href="https://maps.app.goo.gl/oAdccopkzD7XR3Lh6"><i class="fa fa-1x"></i> (Google Map)
+
+contact: >
+  <a href="mailto:hsun2@utep.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Email: hsun2@utep.edu</a> <br/>
+  Last updated on Oct 15, 2025
+# <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+
+# Pages shown in navbar
+nav_pages:
+  - name: CV
+  - name: Publications
+  - name: Research
+  - name: Teaching
+  - name: Openings
+  # - name: Team
+  # - name: Software
+  # - name: Talks
+  # - name: Blogs
+
+include:
+  - .htaccess
+  - _pages
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+plugins:
+  - jekyll-scholar
+
+scholar:
+  last_name: Sun
+  first_name: [Hongyu]
+
+  style: citesty
+  locale: en
+
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+    
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
+

@@ -1,10 +1,10 @@
 # Site settings
-title: Dr. Hongyu Sun
-title_bottom: Hongyu Sun
-email: hsun2@utep.edu
-description: Sun Research Group
+title: Mr. Albert Kabanda
+title_bottom: Albert Kabanda
+email: albertkabanda2027@northwestern.edu
+#description: Albert Research Group
 baseurl: ""
-url: "https://sun-hongyu.github.io"
+url: "https://albertkabanda.github.io"
 
 # theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: "aqua"
@@ -16,30 +16,27 @@ google_analytics_4: G-WZ36XBVDW6
 
 # Footer info
 affiliation: >
-  <a href="https://www.utep.edu/science/geology/"><i class="fa fa-1x"></i> Dept. of Earth, Environmental and Resource Sciences</a><br/>
-  <a href="https://www.utep.edu/"><i class="fa fa-1x"></i> The University of Texas at El Paso</a>
+  <a href="https://deeps.northwestern.edu/"><i class="fa fa-1x"></i> Dept. of Earth, Environmental and Planetary Sciences</a><br/>
+  <a href="https://www.northwestern.edu/"><i class="fa fa-1x"></i> Northwestern University</a>
 
 location: >
-  500 W University<br/>
-  El Paso, Texas 79902<br/>
-#  <a href="https://maps.app.goo.gl/oAdccopkzD7XR3Lh6"><i class="fa fa-1x"></i> (Google Map)
+  Evanston <br/>
+  Evanston, IL<br/>
 
 contact: >
-  <a href="mailto:hsun2@utep.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Email: hsun2@utep.edu</a> <br/>
+  <a href="mailto:albertkabanda2027@northwestern.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Email: albertkabanda2027@northwestern.edu</a> <br/>
   Last updated on Oct 15, 2025
-# <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
-
 # Pages shown in navbar
 nav_pages:
   - name: CV
   - name: Publications
   - name: Research
   - name: Teaching
-  - name: Openings
+  #- name: Openings
   # - name: Team
-  # - name: Software
-  # - name: Talks
-  # - name: Blogs
+  - name: Software
+  - name: Talks
+  - name: Blogs
 
 include:
   - .htaccess
@@ -68,8 +65,8 @@ plugins:
   - jekyll-scholar
 
 scholar:
-  last_name: Sun
-  first_name: [Hongyu]
+  last_name: Kabanda
+  first_name: [Albert]
 
   style: citesty
   locale: en

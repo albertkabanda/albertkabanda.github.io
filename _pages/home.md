@@ -11,9 +11,9 @@ permalink: /
 
 Welcome to my website.
 
-I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, imaging, and computational methods.
+I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, and advanced seismic imaging methods.
 
-My research interests include continental rifting, seismic imaging, receiver functions, surface waves, ambient seismic noise, and computational geophysics.
+My research interests include continental rifting, seismic imaging using receiver functions and seismic ambient noise tomography, waveform inversion and other computational geophysics.
 
 [Research](/Research/) &nbsp;&nbsp; [Publications](/Publications/) &nbsp;&nbsp; [CV](/CV/)
 

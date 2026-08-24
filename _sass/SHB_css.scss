@@ -160,11 +160,17 @@ a:hover {
 }
 
 @media (max-width: 767px) {
-  #homeid {
-    padding-left: 15px;
+  .profile-photo {
+    width: 150px;
   }
+}
 
   .profile-photo {
-    width: 200px;
-  }
+  width: 170px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 }

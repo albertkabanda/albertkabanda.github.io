@@ -34,6 +34,10 @@ nav_pages:
   url: /Research/
 - name: Publications
   url: /Publications/
+- name: Talks & Presentations
+  url: /Talks/
+- name: Supervision
+  url: /Supervision/
 - name: Teaching
   url: /Teaching/
 - name: Posts

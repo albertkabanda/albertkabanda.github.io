@@ -25,4 +25,4 @@ My name is shown in **bold**.
 
 6. Njinju, E. A., Kolawole, F., Atekwana, E. A., Ajala, R., Stamps, D. S., Evans, R. L., Katumwehe, A., Barry, P. H., van der Lee, S., Kiberu, J. M., Tugume, F., **Kabanda, A.**, Taylor, M., Nakajigo, J., & Isaac, A. O. (2025). Density perturbations in the crust indicate potential for blind magmatism beneath magma-poor rifts. *Tectonophysics, 913*, 230881. [https://doi.org/10.1016/j.tecto.2025.230881](https://doi.org/10.1016/j.tecto.2025.230881)
 
-7. **Kabanda, A.** (2017). Rock physics template (RPT) technology for reservoir characterization and 4D seismic monitoring. *CSEG Recorder, 42*(1). [https://csegrecorder.com/articles/view/rock-physics-template-rpt-technology-for-reservoir-characterization]
+7. **Kabanda, A.** (2017). Rock physics template (RPT) technology for reservoir characterization and 4D seismic monitoring. *CSEG Recorder, 42*(1). [https://csegrecorder.com/articles/view/rock-physics-template-rpt-technology-for-reservoir-characterization](https://csegrecorder.com/articles/view/rock-physics-template-rpt-technology-for-reservoir-characterization)

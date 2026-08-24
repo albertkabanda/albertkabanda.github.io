@@ -5,9 +5,9 @@ sitemap: false
 permalink: /
 ---
 
-# Albert Kabanda
+### Albert Kabanda
 
-### Geophysics • Seismology • Seismic Imaging
+#### Geophysics • Seismology • Seismic Imaging
 
 Welcome to my website.
 
@@ -17,16 +17,16 @@ My research interests include continental rifting, seismic imaging using receive
 
 [Research](/Research/) &nbsp;&nbsp; [Publications](/Publications/) &nbsp;&nbsp; [CV](/CV/)
 
-## Research Highlights
+### Research Highlights
 
-### Continental Rifting
+#### Continental Rifting
 Understanding how continental lithosphere deforms and eventually breaks apart.
 
-### Seismic Imaging
+#### Seismic Imaging
 Using seismic waves to image crustal and upper-mantle structure.
 
-### Ambient Noise Seismology
+#### Ambient Noise Seismology
 Extracting surface waves and subsurface information from the ambient seismic wavefield.
 
-### Computational Geophysics
+#### Computational Geophysics
 Scientific computing, inverse problems, data analysis, and seismic processing.

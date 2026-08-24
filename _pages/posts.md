@@ -5,7 +5,7 @@ sitemap: false
 permalink: /Posts/
 ---
 
-# Posts
+## Posts
 
 Research notes, field experiences, coding, seismology, and other things I find interesting.
 

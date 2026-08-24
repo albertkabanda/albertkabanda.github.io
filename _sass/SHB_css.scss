@@ -107,6 +107,16 @@ img {
   color: white;
 }
 
+/* =========================================================
+   Albert Kabanda website — Northwestern color customization
+   ========================================================= */
+
+/* Main headings */
+h1, h2, h3 {
+    color: #4E2A84;
+}
+
+/* Regular links */
 a {
     color: #4E2A84;
 }
@@ -115,6 +125,15 @@ a:hover {
     color: #401F68;
 }
 
-h1, h2, h3 {
-    color: #4E2A84;
+/* Keep navigation text visible on purple navbar */
+.navbar a,
+.navbar .nav-link,
+.navbar-brand {
+    color: #FFFFFF !important;
+}
+
+.navbar a:hover,
+.navbar .nav-link:hover,
+.navbar-brand:hover {
+    color: #E4E0EE !important;
 }

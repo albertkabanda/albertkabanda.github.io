@@ -7,7 +7,13 @@ permalink: /
 
 ### Albert Kabanda
 
-#### Geophysics • Seismology • Seismic Imaging
+<div class="research-interests">
+  <span class="interest-tag">Continental Rifting</span>
+  <span class="interest-tag">Seismic Imaging</span>
+  <span class="interest-tag">Ambient Noise</span>
+  <span class="interest-tag">Receiver Functions</span>
+  <span class="interest-tag">Geothermal Seismology</span>
+</div>
 
 Welcome to my website.
 

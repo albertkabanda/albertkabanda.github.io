@@ -13,13 +13,15 @@ permalink: /
   <span class="interest-tag">Ambient Noise</span>
   <span class="interest-tag">Receiver Functions</span>
   <span class="interest-tag">Geothermal Seismology</span>
+  <span class="interest-tag">Quantitative Rock Physics</span>
+  <span class="interest-tag">Time-lapse Seismic Imaging</span>
 </div>
 
 Welcome to my website.
 
 I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, and advanced seismic imaging methods.
 
-My research interests include continental rifting, seismic imaging using receiver functions and seismic ambient noise tomography, waveform inversion and other computational geophysics methods.
+My research interests include continental rifting, seismic imaging using receiver functions and seismic ambient noise tomography, waveform inversion, and other computational geophysics methods.
 
 ### Research Highlights
 

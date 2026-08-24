@@ -10,22 +10,21 @@ layout: default
     alt="Albert Kabanda"
     class="profile-photo">
 
+  <div class="profile-links">
+    <a class="btn custom-btn" href="{{ '/CV/' | relative_url }}">
+      View CV
+    </a>
+
+    <a class="btn custom-btn"
+       href="{{ '/assets/Albert_Kabanda_CV.pdf' | relative_url }}"
+       download>
+      Download CV
+    </a>
+  </div>
+
 </div>
 
 <!-- Right column: homepage content -->
 <div id="homeid" class="col-sm-8 col-xs-12">
   {{ content }}
 </div>
-
-<div class="profile-links">
-  <a class="btn custom-btn" href="{{ '/CV/' | relative_url }}">
-    View CV
-  </a>
-
-  <a class="btn custom-btn"
-     href="{{ '/assets/Albert_Kabanda_CV.pdf' | relative_url }}"
-     download>
-    Download CV
-  </a>
-</div>
-

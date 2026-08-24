@@ -5,22 +5,22 @@ sitemap: false
 permalink: /Cool-Stuff/
 ---
 
-## Cool Stuff
+### Cool Stuff
 
 A collection of visualizations, fieldwork, maps, seismic data, coding projects, and other things I find interesting.
 
-### Seismic Visualizations
+#### Seismic Visualizations
 
 Coming soon.
 
-### Fieldwork
+#### Fieldwork
 
 Coming soon.
 
-### Maps
+#### Maps
 
 Coming soon.
 
-### Coding Projects
+#### Coding Projects
 
 Coming soon.

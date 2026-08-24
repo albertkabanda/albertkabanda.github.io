@@ -188,3 +188,15 @@ a:hover {
   font-size: 0.9em;
   background: #FFFFFF;
 }
+
+.profile-links {
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.profile-links .btn {
+  display: block;
+  width: 170px;
+  max-width: 100%;
+  margin: 6px auto;
+}

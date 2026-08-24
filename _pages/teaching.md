@@ -14,4 +14,4 @@ permalink: /teaching/
 | 2024 | Teaching Assistant | Winter | Physics of the Earth for ISP | EARTH 350 |
 | 2023 | Teaching Assistant | Fall | Physics of the Earth for ISP| EARTH 350 |
 
-For more teaching experience, see my CV.
+For more teaching experience, see my CV

@@ -37,8 +37,6 @@ My name is shown in **bold**.
 
 **Kabanda, A.**, Alonzo, B., van der Lee, S., Stamps, D. S., Atekwana, E. A., Nyago, J., Kabenge, L., Tugume, F., Fishwick, S., Kolawole, F., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., & Kiberu, J. M. (2023). *Characteristics of ambient seismic noise recorded by DRIAR stations along the Western Branch of the East African Rift System, Uganda.* Presentation at the Southern East African Rift System Workshop, Blantyre, Malawi, July 25–28, 2023.
 
-## Conference Attendance
-
 ### 2022
 
 **Kabanda, A.** (2022). AGU Fall Meeting 2022. Attendee during the first year of PhD research.

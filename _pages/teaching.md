@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Teaching
+title: ##Teaching
 permalink: /teaching/
 ---
 
-## Teaching Experience
+### Teaching Experience
 
-### Northwestern University
+#### Northwestern University
 
 | Year | Role | Quarter | Course | Course Number |
 |---|---|---|---|---|

@@ -5,13 +5,13 @@ sitemap: false
 permalink: /About/
 ---
 
-## About
+### About
 
 I am Albert Kabanda, a geophysicist and seismologist.
 
 My research focuses on using seismic observations and computational methods to understand the structure and evolution of Earth's crust and upper mantle.
 
-### Research Interests
+#### Research Interests
 
 - Seismology
 - Continental rifting
@@ -22,6 +22,6 @@ My research focuses on using seismic observations and computational methods to u
 - Computational geophysics
 - Geothermal and subsurface imaging
 
-### Contact
+#### Contact
 
 You can reach me through the links at the bottom of this website.

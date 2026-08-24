@@ -44,8 +44,6 @@ nav_pages:
   url: /Posts/
 - name: Cool Stuff
   url: /Cool-Stuff/
-- name: CV
-  url: /CV/
 
 include:
   - .htaccess

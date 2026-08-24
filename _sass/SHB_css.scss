@@ -96,10 +96,25 @@ img {
 }
 
 .custom-btn {
-  background-color: #A51C30; 
-  border-color: #A51C30;    
+  background-color: #4E2A84; 
+  border-color: #4E2A84;
+  color: white;
 }
 
 .custom-btn:hover {
-  background-color: #54205F; 
+  background-color: #401F68;
+  border-color: #401F68;
+  color: white;
+}
+
+a {
+    color: #4E2A84;
+}
+
+a:hover {
+    color: #401F68;
+}
+
+h1, h2, h3 {
+    color: #4E2A84;
 }

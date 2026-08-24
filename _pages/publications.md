@@ -5,11 +5,11 @@ sitemap: false
 permalink: /Publications/
 ---
 
-# Publications
+## Publications
 
 My name is shown in **bold**.
 
-## Manuscripts Under Review / Submitted
+### Manuscripts Under Review / Submitted
 
 1. **Kabanda, A.**, van der Lee, S., Atekwana, E. A., Stamps, D. S., Alonzo, B., et al. (2026). Receiver function imaging of Uganda's crust and its magma-assisted to magma-poor rift transition in the Northern Western Branch of the East African Rift System. *Manuscript resubmitted to Journal of Geophysical Research: Solid Earth*.
 
@@ -17,7 +17,7 @@ My name is shown in **bold**.
 
 3. **Kabanda, A.**, Kalugana, C., van der Lee, S., Ebinger, C. J., Kyambikwa, A., & Mavonga, G. T. (2026). Crustal structure beneath the Kivu Rift and Virunga Volcanic Province, Western Rift, Africa. *Manuscript submitted to Geophysical Journal International*.
 
-## Peer-Reviewed Articles
+### Peer-Reviewed Articles
 
 4. Mwongyera, H., Taylor, M. H., Stamps, D. S., Atekwana, E. A., Evans, R. L., Barry, P. H., van der Lee, S., Katumwehe, A., Njinju, E., **Kabanda, A.**, Kwagalakwe, A., Kiberu, J. M., Nakajigo, J., & Tugume, F. (2026). Active fault database for the Northern Western Branch of the East African Rift System. *GSA Today, 36*(8), 4–11. [https://doi.org/10.1130/GSATG634A.1](https://doi.org/10.1130/GSATG634A.1)
 

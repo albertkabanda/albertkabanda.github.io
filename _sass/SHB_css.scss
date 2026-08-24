@@ -137,3 +137,34 @@ a:hover {
 .navbar-brand:hover {
     color: #E4E0EE !important;
 }
+
+/* =========================================================
+   Albert Kabanda homepage profile
+   ========================================================= */
+
+.profile-photo {
+  width: 230px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+#profileid {
+  padding-top: 10px;
+}
+
+#homeid {
+  padding-left: 25px;
+}
+
+@media (max-width: 767px) {
+  #homeid {
+    padding-left: 15px;
+  }
+
+  .profile-photo {
+    width: 200px;
+  }
+}

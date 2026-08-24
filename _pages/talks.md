@@ -1,3 +1,9 @@
+---
+layout: page
+title: Talks & Presentations
+permalink: /Talks/
+---
+
 # Conference Presentations and Workshops
 
 My name is shown in **bold**.

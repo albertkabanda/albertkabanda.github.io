@@ -1,24 +1,19 @@
 ---
 layout: default
 ---
-<div id="newsid" class="col-sm-5 col-xs-12" >
-	{% include sidebar.html %}
-</div>
-  
-<div id="homeid" class="col-sm-7 col-xs-12">
-	{{ content }}
-</div>
-  
 
-  <!-- <div class="jumbotron">
-    <h4>News</h4>
-  
-    {% for article in site.data.news limit:3 %}
-    <b>{{ article.date }}</b>
-      <p>{{ article.headline }}</p>
-    {% endfor %}
-    
-    <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
-  
-  </div> -->
+<!-- Left column: Albert's profile photo -->
+<div id="profileid" class="col-sm-4 col-xs-12 text-center">
+
+  <img
+    src="{{ '/assets/Albertkabandaphoto.jpg' | relative_url }}"
+    alt="Albert Kabanda"
+    class="profile-photo">
+
+</div>
+
+<!-- Right column: homepage content -->
+<div id="homeid" class="col-sm-8 col-xs-12">
+  {{ content }}
+</div>
 

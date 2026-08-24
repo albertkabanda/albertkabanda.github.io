@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-### Albert Kabanda
+### Albert Kabanda | PhD Candidate in Earth & Planetary Sciences
 
 <div class="research-interests">
   <span class="interest-tag">Continental Rifting</span>

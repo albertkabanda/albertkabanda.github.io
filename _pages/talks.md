@@ -3,11 +3,11 @@ layout: page
 permalink: /Talks/
 ---
 
-# Conference Presentations and Workshops
+## Conference Presentations and Workshops
 
 My name is shown in **bold**.
 
-## 2026
+### 2026
 
 **Kabanda, A.**, van der Lee, S., Babirye, G. P., Nseko, Y., Nyago, J., Schirbel, L., Tugume, F., Atekwana, E. A., Stamps, D. S., Atekwana, E. A., Barry, P. H., Evans, R. L., Katumwehe, A. B., Kiberu, J. M., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Nakajigo, J., Njinju, E. A., Rhodes, R., Taylor, M. H., & Xue, L. (2026). *Inferring lithospheric structure along the northern Western Branch of the East African Rift System from seismic array analyses.* Abstract submitted for presentation at the AGU Annual Meeting 2026, San Francisco, California.
 
@@ -17,13 +17,13 @@ My name is shown in **bold**.
 
 **Kabanda, A.**, & van der Lee, S. (2026). Continental Rifting and Rifted Margins Workshop, University of Texas Institute for Geophysics (UTIG), January 12–16, 2026. Presented research and participated in interdisciplinary discussions on continental-rift structure, magmatism, sedimentary basins, and geophysical imaging.
 
-## 2025
+### 2025
 
 **Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., Njinju, E. A., Tugume, F., Kiberu, J. M., Xue, L., Barry, P. H., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Mongovin, D., Nakajigo, J., Nyago, J., Kabenge, L., Nagudi, B., Abbey, O. I., Yip, H., Fishwick, S., Halldorsson, S. A., & Rümpker, G. (2025). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting, New Orleans, Louisiana.
 
 **Kabanda, A.**, van der Lee, S., Tugume, F., Nyago, J., Kabenge, L., Babirye, G. P., Nseko, Y., & Alonzo, B. (2025). *Wildlife, illness, equipment malfunction, flooding, and adaptive collaboration during the DRIAR broadband seismic experiment in Uganda.* Oral presentation at the AGU Fall Meeting, New Orleans, Louisiana.
 
-## 2024
+### 2024
 
 **Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Nyago, J., Tugume, F., Kabenge, L., Babirye, G. P., Fishwick, S., Kolawole, F., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., & Kiberu, J. M. (2024). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting.
 
@@ -31,7 +31,7 @@ My name is shown in **bold**.
 
 **Kabanda, A.** (2024). *Listening to distant oceans reveals subsurface temperatures in the Western Branch of the East African Rift System (EARS), Uganda.* Lightning talk at the Northwestern CoDEx Symposium, Northwestern University, April 2, 2024.
 
-## 2023
+### 2023
 
 **Kabanda, A.**, Alonzo, B., van der Lee, S., Stamps, D. S., Atekwana, E. A., Nyago, J., Kabenge, L., Tugume, F., Fishwick, S., Kolawole, F., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., & Kiberu, J. M. (2023). *Interferometry of ambient seismic noise recorded by DRIAR stations in the northern Western Branch of the East African Rift System, Uganda.* Poster T13C-0234, AGU Fall Meeting, San Francisco, California, December 11–15, 2023. **Outstanding Student Presentation Award (OSPA).**
 

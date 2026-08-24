@@ -1,20 +1,15 @@
 ---
+layout: page
 title: Teaching
-layout: gridlay
-sitemap: false
-permalink: /Teaching/
+permalink: /teaching/
 ---
 
-# Teaching
+# Teaching Experience
 
-## University Teaching
+## Northwestern University
 
-Details of courses, laboratory instruction, teaching assistantships, and student mentoring.
-
-## Laboratory Instruction
-
-Details of laboratory teaching, demonstrations, training, and development of instructional materials.
-
-## Student Mentoring
-
-Details of undergraduate research supervision and mentoring.
+| Year | Role | Quarter | Course | Course Number |
+|---|---|---|---|---|
+| 2025 | Teaching Assistant | Fall | Physics of the Earth's Interior | EARTH 215 |
+| 2024 | Teaching Assistant | Winter | Physics of the Earth for ISP | EARTH 350 |
+| 2023 | Teaching Assistant | Fall | Physics of the Earth | EARTH 350 |

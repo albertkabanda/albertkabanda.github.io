@@ -36,26 +36,3 @@ Extracting surface waves and subsurface information from the ambient seismic wav
 
 #### Computational Geophysics
 Scientific computing, inverse problems, data analysis, and seismic processing.
-
-<p>
-  <a class="btn custom-btn"
-     href="https://www.linkedin.com/in/ak20000/"
-     target="_blank"
-     rel="noopener noreferrer">
-    LinkedIn
-  </a>
-
-  <a class="btn custom-btn"
-     href="https://github.com/albertkabanda"
-     target="_blank"
-     rel="noopener noreferrer">
-    GitHub
-  </a>
-
-  <a class="btn custom-btn"
-     href="https://scholar.google.com/citations?user=fdWs72EAAAAJ&hl=en"
-     target="_blank"
-     rel="noopener noreferrer">
-    Google Scholar
-  </a>
-</p>

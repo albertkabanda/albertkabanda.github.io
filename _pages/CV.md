@@ -5,18 +5,18 @@ sitemap: false
 permalink: /CV/
 ---
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 [Download my CV (PDF)](/assets/Albert_Kabanda_CV.pdf)
 
-## Research Experience
+### Research Experience
 
 See my [Research](/Research/) page.
 
-## Publications
+### Publications
 
 See my [Publications](/Publications/) page.
 
-## Teaching
+### Teaching
 
 See my [Teaching](/Teaching/) page.

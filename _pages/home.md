@@ -45,4 +45,11 @@ Scientific computing, inverse problems, data analysis, and seismic processing.
      rel="noopener noreferrer">
     GitHub
   </a>
+
+  <a class="btn custom-btn"
+     href="https://scholar.google.com/citations?user=fdWs72EAAAAJ&hl=en"
+     target="_blank"
+     rel="noopener noreferrer">
+    Google Scholar
+  </a>
 </p>

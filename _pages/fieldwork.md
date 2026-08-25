@@ -5,81 +5,84 @@ sitemap: false
 permalink: /Fieldwork/
 ---
 
-# Fieldwork
-
 Field observations and seismic deployments are an important part of my research. These photographs document seismic station installation, servicing, data recovery, and field activities associated with my research in the East African Rift System.
 
 <div class="fieldwork-gallery-wrapper">
 
-  <button class="gallery-arrow gallery-left" onclick="scrollFieldwork(-1)" aria-label="Previous photos">
-    &#10094;
-  </button>
+<button class="gallery-arrow gallery-left" onclick="scrollFieldwork(-1)" aria-label="Previous photos">&#10094;</button>
 
-  <div class="fieldwork-gallery" id="fieldworkGallery">
+<div class="fieldwork-gallery" id="fieldworkGallery">
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/BUNY_1682.JPG' | relative_url }}" alt="Fieldwork in Uganda">
-      <p>Seismic fieldwork in western Uganda.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/BUNY_1682.JPG' | relative_url }}" alt="Seismic fieldwork in Uganda">
+<p>Seismic fieldwork in western Uganda.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/HOIM_1605.jpeg' | relative_url }}" alt="Seismic field deployment">
-      <p>Field deployment in the northern Western Branch of the East African Rift.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/HOIM_1605.jpeg' | relative_url }}" alt="Seismic field deployment">
+<p>Field deployment in the northern Western Branch of the East African Rift.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/IMG_1605.JPG' | relative_url }}" alt="Seismic station fieldwork">
-      <p>Seismic station installation and field operations.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/IMG_1605.JPG' | relative_url }}" alt="Seismic station fieldwork">
+<p>Seismic station installation and field operations.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/IMG_1643.JPG' | relative_url }}" alt="Field operations in Uganda">
-      <p>Field operations during seismic network deployment.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/IMG_1643.JPG' | relative_url }}" alt="Field operations in Uganda">
+<p>Field operations during seismic network deployment.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/KSSE_1714.JPG' | relative_url }}" alt="Broadband seismic station">
-      <p>Broadband seismic station installation and servicing.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/KSSE_1714.JPG' | relative_url }}" alt="Broadband seismic station">
+<p>Broadband seismic station installation and servicing.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/KSSE_1741.JPG' | relative_url }}" alt="Seismic station servicing">
-      <p>Servicing a seismic station during field deployment.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/KSSE_1741.JPG' | relative_url }}" alt="Seismic station servicing">
+<p>Field operations at a temporary seismic station.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/rhino.jpg' | relative_url }}" alt="Rhino Graben fieldwork">
-      <p>Fieldwork in the Rhino Graben, northern Western Branch of the East African Rift.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/servicing.jpg' | relative_url }}" alt="Seismic station servicing">
+<p>Servicing and maintaining a seismic station in the field.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/servicing.jpg' | relative_url }}" alt="Seismic station servicing">
-      <p>Servicing and maintaining a temporary seismic station.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/servicing1.jpg' | relative_url }}" alt="Seismic station maintenance">
+<p>Station maintenance and data recovery during fieldwork.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/servicing1.jpg' | relative_url }}" alt="Field station maintenance">
-      <p>Field maintenance and data recovery from a seismic station.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/vault.jpg' | relative_url }}" alt="Broadband seismic sensor vault">
+<p>A seismic sensor vault used for broadband seismic observations.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/southwestern_rift.jpg' | relative_url }}" alt="Southwestern East African Rift">
-      <p>Field observations in the southwestern part of the Western Branch.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/southwestern_rift.jpg' | relative_url }}" alt="Western Branch of the East African Rift">
+<p>Field setting in the southwestern Western Branch of the East African Rift.</p>
+</div>
 
-    <div class="fieldwork-card">
-      <img src="{{ '/assets/fieldwork/vault.jpg' | relative_url }}" alt="Seismic sensor vault">
-      <p>A seismic sensor vault used for broadband seismic observations.</p>
-    </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/rhino.jpg' | relative_url }}" alt="Rhino encountered during fieldwork">
+<p>Wildlife encountered during fieldwork in western Uganda.</p>
+</div>
 
-  </div>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/elephants.jpg' | relative_url }}" alt="Elephants encountered during fieldwork">
+<p>Elephants encountered during field activities in western Uganda.</p>
+</div>
 
-  <button class="gallery-arrow gallery-right" onclick="scrollFieldwork(1)" aria-label="Next photos">
-    &#10095;
-  </button>
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/monkeys.jpg' | relative_url }}" alt="Monkeys encountered during fieldwork">
+<p>Wildlife encountered during seismic fieldwork in Uganda.</p>
+</div>
 
 </div>
 
+<button class="gallery-arrow gallery-right" onclick="scrollFieldwork(1)" aria-label="Next photos">&#10095;</button>
+
+</div>
 
 <style>
 
@@ -96,8 +99,6 @@ Field observations and seismic deployments are an important part of my research.
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
   padding: 10px 5px 25px 5px;
-
-  /* Hide scrollbar */
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -137,19 +138,14 @@ Field observations and seismic deployments are an important part of my research.
   top: 45%;
   transform: translateY(-50%);
   z-index: 10;
-
   width: 48px;
   height: 48px;
-
   border: none;
   border-radius: 50%;
-
   background: rgba(0,0,0,0.65);
   color: white;
-
   font-size: 25px;
   font-weight: bold;
-
   cursor: pointer;
 }
 
@@ -164,9 +160,6 @@ Field observations and seismic deployments are an important part of my research.
 .gallery-right {
   right: 12px;
 }
-
-
-/* Mobile */
 
 @media (max-width: 768px) {
 
@@ -183,11 +176,9 @@ Field observations and seismic deployments are an important part of my research.
     height: 40px;
     font-size: 20px;
   }
-
 }
 
 </style>
-
 
 <script>
 

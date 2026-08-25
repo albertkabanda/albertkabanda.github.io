@@ -14,28 +14,18 @@ Field observations and seismic deployments are an important part of my research.
 <div class="fieldwork-gallery" id="fieldworkGallery">
 
 <div class="fieldwork-card">
-<img src="{{ '/assets/fieldwork/BUNY_1682.JPG' | relative_url }}" alt="Seismic fieldwork in Uganda">
-<p>Seismic fieldwork in western Uganda.</p>
-</div>
-
-<div class="fieldwork-card">
-<img src="{{ '/assets/fieldwork/HOIM_1605.jpeg' | relative_url }}" alt="Seismic field deployment">
-<p>Field deployment in the northern Western Branch of the East African Rift.</p>
-</div>
-
-<div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/IMG_1605.JPG' | relative_url }}" alt="Seismic station fieldwork">
-<p>Seismic station installation and field operations.</p>
+<p>Seismic station field operations and servicing.</p>
 </div>
 
 <div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/IMG_1643.JPG' | relative_url }}" alt="Field operations in Uganda">
-<p>Field operations during seismic network deployment.</p>
+<p>Broadband seismic station servicing, 2024.</p>
 </div>
 
 <div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/KSSE_1714.JPG' | relative_url }}" alt="Broadband seismic station">
-<p>Broadband seismic station installation and servicing.</p>
+<p>Seismic data quality check using logpeek, passoft3, pql tools.</p>
 </div>
 
 <div class="fieldwork-card">
@@ -60,7 +50,12 @@ Field observations and seismic deployments are an important part of my research.
 
 <div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/southwestern_rift.jpg' | relative_url }}" alt="Western Branch of the East African Rift">
-<p>Field setting in the southwestern Western Branch of the East African Rift.</p>
+<p>Rift valley setting in the southwestern Western Branch of the East African Rift | Ntoroko Region, 2024.</p>
+</div>
+
+<div class="fieldwork-card">
+<img src="{{ '/assets/fieldwork/BUNY_1682.JPG' | relative_url }}" alt="Seismic fieldwork in Uganda">
+<p>Seismic fieldwork in western Uganda.</p>
 </div>
 
 <div class="fieldwork-card">

@@ -5,7 +5,7 @@ sitemap: false
 permalink: /Fieldwork/
 ---
 
-Field observations and seismic deployments are an important part of my research. These photographs document seismic station installation, servicing, data recovery, and field activities associated with my research in the East African Rift System.
+Field observations and seismic deployments are an important part of my research. These photographs document seismic station installation, servicing, data recovery, and field activities associated with my research in the East African Rift System (2022-2024).
 
 <div class="fieldwork-gallery-wrapper">
 

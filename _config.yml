@@ -32,6 +32,8 @@ nav_pages:
   url: /About/
 - name: Research
   url: /Research/
+- name: Fieldwork
+  url: /Fieldwork/
 - name: Publications
   url: /Publications/
 - name: Talks & Presentations

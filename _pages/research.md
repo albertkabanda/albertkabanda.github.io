@@ -9,11 +9,6 @@ permalink: /Research/
 
 My research uses seismology to investigate the structure, deformation, and evolution of the crust and upper mantle, with a particular focus on active continental rifting. I combine observations from earthquakes and ambient seismic noise with seismic imaging, inverse methods, and computational analysis to understand how continental lithosphere responds as it is stretched, weakened, and modified during rifting.
 
-<div style="text-align: center;">
-  <img src="/assets/Figure1_EastAfricanSeismicity_UgandaMap.png" alt="Regional tectonic and geological setting of the East African Rift System and the northern Western Branch of Uganda" style="max-width: 100%; height: auto;">
-  <p><em>Figure. Regional tectonic and geological setting of the East African Rift System and the northern Western Branch of Uganda, including earthquake seismicity, major structures, geological terranes, and seismic stations used in my research.</em></p>
-</div>
-
 #### Continental Rifting and Lithospheric Structure
 
 A major focus of my research is the **East African Rift System**, particularly the northern Western Branch in Uganda and the broader western rift region. This part of the rift provides a natural setting for investigating how continental extension varies between regions where magmatism is important and regions where deformation is dominated primarily by tectonic processes.

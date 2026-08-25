@@ -16,7 +16,3 @@ See my [Research](/Research/) page.
 #### Publications
 
 See my [Publications](/Publications/) page.
-
-#### Teaching
-
-See my [Teaching](/Teaching/) page.

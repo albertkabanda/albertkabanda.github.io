@@ -9,7 +9,7 @@ My name is shown in **bold**.
 
 #### 2026
 
-**Kabanda, A.**, van der Lee, S., Babirye, G. P., Nseko, Y., Nyago, J., Schirbel, L., Tugume, F., Atekwana, E. A., Stamps, D. S., Atekwana, E. A., Barry, P. H., Evans, R. L., Katumwehe, A. B., Kiberu, J. M., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Nakajigo, J., Njinju, E. A., Rhodes, R., Taylor, M. H., & Xue, L. (2026). *Inferring lithospheric structure along the northern Western Branch of the East African Rift System from seismic array analyses.* Abstract submitted for presentation at the AGU Annual Meeting 2026, San Francisco, California.
+**Kabanda, A.**, van der Lee, S., Babirye, G. P., Nseko, Y., Nyago, J., Schirbel, L., Tugume, F., Atekwana, E. A., Stamps, D. S., Atekwana, E. A., Barry, P. H., Evans, R. L., Katumwehe, A. B., Kiberu, J. M., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Nakajigo, J., Njinju, E. A., Rhodes, R., Taylor, M. H., & Xue, L. (2026). *Inferring lithospheric structure along the northern Western Branch of the East African Rift System from seismic array analyses.* Abstract submitted for presentation at the AGU Annual Meeting 2026, San Francisco, California, December 7–11, 2026.
 
 **Kabanda, A.**, & van der Lee, S. (2026). *Directionality and seasonality in seismic ambient noise from circumfluent oceans of Africa, and its implications for tomographic imaging.* Presentation at the Purdue PCAG Workshop, Purdue University, May 2026.
 
@@ -19,13 +19,13 @@ My name is shown in **bold**.
 
 #### 2025
 
-**Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., Njinju, E. A., Tugume, F., Kiberu, J. M., Xue, L., Barry, P. H., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Mongovin, D., Nakajigo, J., Nyago, J., Kabenge, L., Nagudi, B., Abbey, O. I., Yip, H., Fishwick, S., Halldorsson, S. A., & Rümpker, G. (2025). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting, New Orleans, Louisiana.
+**Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., Njinju, E. A., Tugume, F., Kiberu, J. M., Xue, L., Barry, P. H., Kolawole, F., Kwagalakwe, A., Mwongyera, H., Mongovin, D., Nakajigo, J., Nyago, J., Kabenge, L., Nagudi, B., Abbey, O. I., Yip, H., Fishwick, S., Halldorsson, S. A., & Rümpker, G. (2025). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting, New Orleans Ernest N. Morial Convention Center, New Orleans, Louisiana, December 15-19, 2025.
 
 **Kabanda, A.**, van der Lee, S., Tugume, F., Nyago, J., Kabenge, L., Babirye, G. P., Nseko, Y., & Alonzo, B. (2025). *Wildlife, illness, equipment malfunction, flooding, and adaptive collaboration during the DRIAR broadband seismic experiment in Uganda.* Oral presentation at the AGU Fall Meeting, New Orleans, Louisiana.
 
 #### 2024
 
-**Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Nyago, J., Tugume, F., Kabenge, L., Babirye, G. P., Fishwick, S., Kolawole, F., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., & Kiberu, J. M. (2024). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting.
+**Kabanda, A.**, van der Lee, S., Stamps, D. S., Atekwana, E. A., Nyago, J., Tugume, F., Kabenge, L., Babirye, G. P., Fishwick, S., Kolawole, F., Evans, R. L., Taylor, M. H., Katumwehe, A. B., Atekwana, E. A., & Kiberu, J. M. (2024). *Crustal structure around the northern Western Branch of the East African Rift System from receiver function analysis.* Oral presentation at the AGU Fall Meeting, Walter E. Washington Convention Center, Washington, D.C., December 9–13, 2024.
 
 **Kabanda, A.** (2024). *Crustal structure of the East African Rift System in Uganda from receiver function analysis.* Lightning talk, Northwestern Institute on Complex Systems (NICO), Northwestern University, November 20, 2024.
 
@@ -39,4 +39,4 @@ My name is shown in **bold**.
 
 #### 2022
 
-**Kabanda, A.** (2022). AGU Fall Meeting 2022. Attendee during the first year of PhD research.
+**Kabanda, A.** (2022). AGU Fall Meeting 2022, McCormick Place, Chicago, IL, December 12–16, 2022. Attendee during the first year of PhD research.

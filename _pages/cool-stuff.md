@@ -7,13 +7,9 @@ permalink: /Cool-Stuff/
 
 ### Cool Stuff
 
-A collection of visualizations, fieldwork, maps, seismic data, coding projects, and other things I find interesting.
+A collection of visualizations, maps, seismic data, coding projects, and other things I find interesting.
 
 #### Seismic Visualizations
-
-Coming soon.
-
-#### Fieldwork
 
 Coming soon.
 

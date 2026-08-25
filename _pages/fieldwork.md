@@ -25,12 +25,12 @@ Field observations and seismic deployments are an important part of my research.
 
 <div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/KSSE_1714.JPG' | relative_url }}" alt="Broadband seismic station">
-<p>Seismic data quality check using logpeek, passoft3, pql tools.</p>
+<p>Field operations at a temporary seismic station.</p>
 </div>
 
 <div class="fieldwork-card">
 <img src="{{ '/assets/fieldwork/KSSE_1741.JPG' | relative_url }}" alt="Seismic station servicing">
-<p>Field operations at a temporary seismic station.</p>
+<p>Seismic data quality check using logpeek, passoft3, pql tools.</p>
 </div>
 
 <div class="fieldwork-card">

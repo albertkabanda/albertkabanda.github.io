@@ -19,7 +19,7 @@ permalink: /
 
 Welcome to my website.
 
-I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, and advanced seismic imaging methods. I joined [Prof. Suzan van der Lee’s research group](https://geophysics.earth.northwestern.edu/seismology/suzan/people.html) in June 2022 in the Department of Earth, Environmental, and Planetary Sciences (DEEPS) at Northwestern University.
+I am a Seismologist/geophysicist interested in understanding Earth's crust and upper mantle using seismic observations, and advanced seismic imaging methods. I joined [Prof. Suzan van der Lee’s research group](https://geophysics.earth.northwestern.edu/seismology/suzan/people.html) in June 2022 in the Department of Earth, Environmental, and Planetary Sciences (DEEPS) at Northwestern University working on Dry Rifting In the Albertine-Rhino Graben, Uganda, [DRIAR Project](https://sites.google.com/vt.edu/driar/home).
 
 My research interests include continental rifting, seismic imaging using receiver functions and seismic ambient noise tomography, waveform inversion, and other computational geophysics methods.
 

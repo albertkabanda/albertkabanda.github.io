@@ -23,14 +23,15 @@ I am a Seismologist/geophysicist interested in understanding Earth's crust and u
 
 My research interests include continental rifting, seismic imaging using receiver functions and seismic ambient noise tomography, waveform inversion, and other computational geophysics methods.
 
-<figure style="margin: 1.5rem 0 2rem;">
+<div style="margin: 1.5rem 0 2rem;">
   <img src="/assets/rift1.jpg"
        alt="Rift landscape in western Uganda within the East African Rift System"
        style="display: block; width: 100%; aspect-ratio: 16 / 7; object-fit: cover; border-radius: 8px;">
-  <figcaption style="margin-top: 0.4rem; font-size: 0.9rem; color: #666;">
+
+  <p style="margin: 0.5rem 0 0; font-size: 0.9rem; line-height: 1.4; color: #666; white-space: normal; font-family: inherit;">
     Rift landscape in western Uganda, within my study region in the northern Western Branch of the East African Rift System.
-  </figcaption>
-</figure>
+  </p>
+</div>
 
 ### Research Highlights
 

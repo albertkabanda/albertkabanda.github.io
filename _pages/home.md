@@ -35,6 +35,17 @@ My research interests include continental rifting, seismic imaging using receive
 
 ### Research Highlights
 
+<div style="margin: 1.25rem 0 2rem;">
+  <img
+    src="{{ '/assets/research_components.png' | relative_url }}"
+    alt="Seismic fieldwork, continental rifting, and subsurface seismic imaging"
+    style="display: block; width: 100%; height: auto; margin: 0 auto;">
+
+  <p style="margin: 0.6rem 0 0; text-align: center; font-size: 0.9rem; color: #666;">
+    Seismic fieldwork &nbsp;•&nbsp; Continental rifting &nbsp;•&nbsp; Seismic imaging
+  </p>
+</div>
+
 #### Continental Rifting
 Understanding how continental lithosphere deforms and eventually breaks apart.
 

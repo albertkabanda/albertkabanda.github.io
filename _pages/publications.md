@@ -19,7 +19,7 @@ My name is shown in **bold**.
 
 #### Peer-Reviewed Articles
 
-4.Ciardelli, C., Nseko, Y., Kabanda, A., & van der Lee, S. (2026). Optimized workflows with a single phase-only response correction for building empirical Green’s functions for ambient-noise tomography. Seismica, 5(1). [https://doi.org/10.26443/seismica.v5i1.1554](https://doi.org/10.26443/seismica.v5i1.1554)
+4. Ciardelli, C., Nseko, Y., Kabanda, A., & van der Lee, S. (2026). Optimized workflows with a single phase-only response correction for building empirical Green’s functions for ambient-noise tomography. Seismica, 5(1). [https://doi.org/10.26443/seismica.v5i1.1554](https://doi.org/10.26443/seismica.v5i1.1554)
 
 5. Mwongyera, H., Taylor, M. H., Stamps, D. S., Atekwana, E. A., Evans, R. L., Barry, P. H., van der Lee, S., Katumwehe, A., Njinju, E., **Kabanda, A.**, Kwagalakwe, A., Kiberu, J. M., Nakajigo, J., & Tugume, F. (2026). Active fault database for the Northern Western Branch of the East African Rift System. *GSA Today, 36*(8), 4–11. [https://doi.org/10.1130/GSATG634A.1](https://doi.org/10.1130/GSATG634A.1)
 

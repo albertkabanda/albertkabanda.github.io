@@ -15,7 +15,7 @@ permalink: /teaching/
 
 For more teaching experience, see my CV
 
-#### Hands-On Seismology: From Hammer Strikes to Subsurface Structure
+### Hands-On Seismology: From Hammer Strikes to Subsurface Structure
 
 During Fall 2025, while serving as a teaching assistant for *Physics of the Earth’s Interior* (EARTH 215), I helped facilitate an active-source seismic experiment that connected seismic-wave theory with field observations.
 
@@ -76,38 +76,19 @@ Students deployed a linear array of geophones and generated controlled seismic w
 }
 </style>
 
-<div class="earth215-gallery">
-
-  <!-- 1. Experiment setup -->
-  <figure class="setup-photo">
-    <img
-      src="{{ '/assets/teaching/experiment_setup.jpg' | relative_url }}"
-      alt="Sledgehammer, strike plate, measuring tape, and linear geophone array used in the EARTH 215 experiment">
-    <figcaption>
-      Active-source setup showing the sledgehammer, strike plate, and linear geophone profile.
-    </figcaption>
-  </figure>
-
-  <!-- 2. Laptop data acquisition -->
-  <figure>
-    <img
-      src="{{ '/assets/teaching/laptop_datacollection.jpg' | relative_url }}"
-      alt="Field computer displaying seismic traces during the EARTH 215 experiment">
-    <figcaption>
-      Monitoring the seismic traces during field data acquisition.
-    </figcaption>
-  </figure>
-
-  <!-- 3. Collected seismic data -->
-  <figure>
-    <img
-      src="{{ '/assets/teaching/data_collected.jpg' | relative_url }}"
-      alt="Multichannel seismic shot gather recorded during the active-source experiment">
-    <figcaption>
-      Recorded multichannel shot gather showing coherent arrivals across the geophone array.
-    </figcaption>
-  </figure>
-
+<div class="earth215-gallery" markdown="0">
+<figure class="setup-photo">
+<img src="{{ '/assets/teaching/experiment_setup.jpg' | relative_url }}" alt="Sledgehammer, strike plate, measuring tape, and linear geophone array used in the EARTH 215 experiment">
+<figcaption>Active-source setup showing the sledgehammer, strike plate, and linear geophone profile.</figcaption>
+</figure>
+<figure>
+<img src="{{ '/assets/teaching/laptop_datacollection.jpg' | relative_url }}" alt="Field computer displaying seismic traces during the EARTH 215 experiment">
+<figcaption>Monitoring the seismic traces during field data acquisition.</figcaption>
+</figure>
+<figure>
+<img src="{{ '/assets/teaching/data_collected.jpg' | relative_url }}" alt="Multichannel seismic shot gather recorded during the active-source experiment">
+<figcaption>Recorded multichannel shot gather showing coherent arrivals across the geophone array.</figcaption>
+</figure>
 </div>
 
 Students examined the resulting shot gathers, identified coherent arrivals, and connected the observed travel-time patterns to seismic velocity, wave propagation, refraction, and shallow subsurface structure. The exercise demonstrated the complete seismic workflow—from experimental design and field acquisition to data visualization and geological interpretation.

@@ -19,6 +19,8 @@ For more teaching experience, see my CV
 
 During Fall 2025, while serving as a teaching assistant for *Physics of the Earth’s Interior* (EARTH 215), I helped facilitate an active-source seismic experiment that connected seismic-wave theory with field observations.
 
+Students deployed a linear array of geophones and generated controlled seismic waves by striking a metal plate with a sledgehammer. Repeated impacts were recorded and stacked to improve the signal-to-noise ratio. The multichannel records allowed students to observe how seismic arrivals changed with increasing source–receiver distance.
+
 <style>
 .earth215-gallery {
   display: grid;
@@ -107,7 +109,5 @@ During Fall 2025, while serving as a teaching assistant for *Physics of the Eart
   </figure>
 
 </div>
-
-Students deployed a linear array of geophones and generated controlled seismic waves by striking a metal plate with a sledgehammer. Repeated impacts were recorded and stacked to improve the signal-to-noise ratio. The multichannel records allowed students to observe how seismic arrivals changed with increasing source–receiver distance.
 
 Students examined the resulting shot gathers, identified coherent arrivals, and connected the observed travel-time patterns to seismic velocity, wave propagation, refraction, and shallow subsurface structure. The exercise demonstrated the complete seismic workflow—from experimental design and field acquisition to data visualization and geological interpretation.
